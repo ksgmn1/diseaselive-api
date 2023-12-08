@@ -119,7 +119,7 @@ export default function RechartPie ({accidents, guname}) {
         <p className='absolute top-24 left-20 text-sm text-[#00A5B3]'>관심</p>
         <p className='absolute top-8 left-36 text-sm text-[#63A600]'>주의</p>
         <p className='absolute top-8 left-60 text-sm text-[#FF9700]'>경고</p>
-        <p className='absolute top-24 right-12 text-sm text-[#EE4617]'>위험</p>
+        <p className='absolute top-24 right-36 text-sm text-[#EE4617]'>위험</p>
 
       </div>
       <PieChart width={600} height={500}>

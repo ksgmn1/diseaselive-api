@@ -84,7 +84,7 @@ export default function Dashboard({ disId, card}) {
         guname={guname}
         />
         <div className='absolute top-56 left-4 text-2xl font-bold text-[#666666]'>
-          <p className='pl-4'> 용산구의 감기는 
+          <p className='pl-12'> 용산구의 감기는 
           <span className='text-[#63A600]'> 주의</span>단계입니다.</p>
         </div>
       </div>
