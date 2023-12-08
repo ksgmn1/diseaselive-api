@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/diseaselive-api/static/css/main.76c0fc1d.css",
-    "main.js": "/diseaselive-api/static/js/main.e034a3f6.js",
+    "main.css": "/diseaselive-api/static/css/main.47c0859d.css",
+    "main.js": "/diseaselive-api/static/js/main.428705b3.js",
     "static/js/787.bb843cc7.chunk.js": "/diseaselive-api/static/js/787.bb843cc7.chunk.js",
     "index.html": "/diseaselive-api/index.html",
-    "main.76c0fc1d.css.map": "/diseaselive-api/static/css/main.76c0fc1d.css.map",
-    "main.e034a3f6.js.map": "/diseaselive-api/static/js/main.e034a3f6.js.map",
+    "main.47c0859d.css.map": "/diseaselive-api/static/css/main.47c0859d.css.map",
+    "main.428705b3.js.map": "/diseaselive-api/static/js/main.428705b3.js.map",
     "787.bb843cc7.chunk.js.map": "/diseaselive-api/static/js/787.bb843cc7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.76c0fc1d.css",
-    "static/js/main.e034a3f6.js"
+    "static/css/main.47c0859d.css",
+    "static/js/main.428705b3.js"
   ]
 }
